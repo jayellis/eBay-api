@@ -1,0 +1,23 @@
+{
+  "name": "ebay_api",
+  "version": "0.0.0",
+  "description": "Wrapper for the ebay api",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ebay",
+    "api"
+  ],
+  "author": "Jason Ellis",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "chai": "^1.9.1",
+    "espresso": "~1.4.3",
+    "request": "~2.36.0",
+    "underscore": "^1.6.0",
+    "xml": "0.0.12",
+    "xml2js": "^0.4.8"
+  }
+}
